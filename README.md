@@ -1,4 +1,4 @@
-# Order Calculator - Zadanie LTR Labs
+# Order Calculator - Zadanie LTR 
 
 ## Wymagania
 
@@ -107,7 +107,7 @@ item.Total = Math.Round(item.NetTotal × (1 + TaxRate), 2);
 - `decimal NetTotal` - cena netto × ilość (obliczane)
 - `decimal Total` - wartość netto z podatkiem (obliczane)
 
-## Kluczowe Decyzje Projektowe
+## Kluczowa Decyzja Projektowa
 
 ### Logika Obliczania Podatku
 ```csharp
